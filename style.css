@@ -1,0 +1,29 @@
+body {
+    background-color:#2C3639;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.stopWatch{
+    font-size: 200px;
+    font-weight: bold;
+    color: #E6B325;   
+}
+
+button {
+    margin: 5px;
+}
+
+.miliSecond {
+    color: #E6B325 ;
+    text-align: left;
+    margin-left:700px ;
+    font-size: 30px;
+    display: block;
+    width: 50px;
+}
